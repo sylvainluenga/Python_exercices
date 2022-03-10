@@ -1,19 +1,5 @@
-# React project-
+# python projects
+Every single page run on it own 
 
-
-#tsconfig.json
-
-{
-  "compilerOptions": {
-    "strict": true,
-    "allowSyntheticDefaultImports": true,
-    "noEmit": true,
-    "pretty": true,
-    "lib": ["esnext"],
-    "moduleResolution": "node",
-    "skipLibCheck": true
-  },
-  "include": ["packages/*/src/", "packages/*/test/", "tasks/"]
-}
 
 
